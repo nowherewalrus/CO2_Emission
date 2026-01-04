@@ -1,4 +1,4 @@
-# 📋 README.md - CO2 Emissions Prediction Model
+## 📋 README.md - CO2 Emissions Prediction Model
 
 ```markdown
 # 🚗 CO2 Emissions Prediction Model
@@ -348,18 +348,4 @@ pip install -r requirements.txt
 4. Statistics Canada: [Fuel Consumption Data](https://www.statcan.gc.ca/)
 
 
----
 
-## 🙏 Acknowledgments
-
-- Data providers for the Fuel Consumption dataset
-- Scikit-learn team for the excellent machine learning library
-- Open-source community for valuable tools and resources
-
-
-
----
----
-
-**Note**: This model provides statistical estimates based on historical data. For official emissions testing and certification, refer to authorized regulatory bodies.
-```
