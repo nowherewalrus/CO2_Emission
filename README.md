@@ -347,11 +347,6 @@ pip install -r requirements.txt
 3. Environmental Protection Agency: [Vehicle Emissions Testing](https://www.epa.gov/)
 4. Statistics Canada: [Fuel Consumption Data](https://www.statcan.gc.ca/)
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -361,22 +356,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Scikit-learn team for the excellent machine learning library
 - Open-source community for valuable tools and resources
 
----
 
-## 📧 Contact
-
-**Project Maintainer**: Your Name  
-**Email**: your.email@example.com  
-**GitHub**: [@yourusername](https://github.com/yourusername)  
 
 ---
-
-## 🎯 Getting Help
-
-- **Documentation**: Read this README and code comments
-- **Issues**: Check existing issues or open a new one
-- **Discussions**: Join project discussions (if available)
-
 ---
 
 **Note**: This model provides statistical estimates based on historical data. For official emissions testing and certification, refer to authorized regulatory bodies.
