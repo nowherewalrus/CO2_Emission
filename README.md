@@ -34,15 +34,15 @@ pip install pandas matplotlib numpy scikit-learn
 ### Running the Model
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/co2-emissions-prediction.git
-cd co2-emissions-prediction
+git clone https://github.com/nowherewalrus/CO2-Emissions-Prediction.git
+cd CO2-Emissions-Prediction
 ```
 
 2. Place `FuelConsumption.csv` in the project directory
 
 3. Run the Jupyter notebook or Python script:
 ```bash
-jupyter notebook CO2_Emissions_Prediction.ipynb
+jupyter notebook Emission.ipynb
 ```
 
 ---
